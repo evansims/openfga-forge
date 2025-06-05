@@ -301,8 +301,8 @@ export default function OpenFGAModelingTool() {
     <div className="min-h-screen bg-background">
       <div className="container mx-auto p-6">
         <div className="mb-6">
-          <h1 className="text-3xl font-bold mb-2">OpenFGA Authorization Modeling Tool</h1>
-          <p className="text-muted-foreground">Visually construct and optimize OpenFGA authorization models</p>
+          <h1 className="text-3xl font-bold mb-2">OpenFGA Forge</h1>
+          <p className="text-muted-foreground">Interactive authorization modeling for OpenFGA</p>
         </div>
 
         {/* Toolbar */}
